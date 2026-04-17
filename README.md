@@ -35,7 +35,7 @@ and the threat model underpinning every access decision.
 
 ## Architecture
 
-![AxiomCorp Identity Tier Model](architecture/org-tier-model.png.png)
+![AxiomCorp Identity Tier Model](architecture/org-tier-model.png)
 
 ### Identity Tier Model
 
